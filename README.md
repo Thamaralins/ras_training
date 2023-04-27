@@ -8,8 +8,10 @@ A capacitação oferecida pela RAS CIMATEC tem como principal objetivo formar m�
 
 Em cada apresentação, o conteúdo será inserido e atualizado de acordo com o tema abordado. Dessa forma, garantimos que os participantes tenham acesso às informações mais relevantes e atualizadas sobre o assunto, proporcionando uma experiência de aprendizagem mais completa e eficiente. 
 
+## Organização do repositório
+
+Os conteúdos de cada capacitação serão disponibilizados em suas respectivas branchs, de forma que, cada assunto será uma branch diferente. Ao final do ciclo de capacitações, todas as branchs serão unidas a main.
+
 ## Contato
 
-Caso tenha dúvida, entre em contato: 
-* Thâmara Lins: (71) 99340-8638
-* Juliane Coimbra: (71) 99681-9629
+Caso tenha dúvida, entre em contato!
