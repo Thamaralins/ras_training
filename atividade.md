@@ -1,4 +1,4 @@
-## 🦆 Galera da capacitação RAS! O clube chegou com as tarefinhas para todos os patos!🦆 
+## 🦆 Galera da capacitação RAS! O clube chegou com as tarefinhas para todos os patos!
 
 
 Lembrem-se que todo o material básico de introdução a lógica de programação esta disponível nos slides:
