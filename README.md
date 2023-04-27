@@ -14,6 +14,4 @@ Os conteúdos de cada capacitação serão disponibilizados em suas respectivas 
 
 ## Contato
 
-Caso tenha dúvida, entre em contato: 
-* Thâmara Lins: (71) 99340-8638
-* Juliane Coimbra: (71) 99681-9629
+Caso tenha dúvida, entre em contato! 
