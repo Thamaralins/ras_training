@@ -1,4 +1,4 @@
-# <h1 align="center"> Capacitação Introdução a Lógica de Programação GitHub </h1>
+# <h1 align="center"> Capacitação Introdução a Lógica de Programação </h1>
 
 ## Conteúdo
 
